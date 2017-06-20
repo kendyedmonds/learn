@@ -4,6 +4,7 @@ Python learning plan
 2.Get better at plotting with matplotlib
 3.Look into the pandas library
 4.add stuff
-5.
+5. Practice processing in Numpy
+6. Advanced python features
 
 A second python file becuase I saved the other one in a weird place.
