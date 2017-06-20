@@ -1,0 +1,9 @@
+Python learning plan
+
+1.Array indexing in Numpy
+2.Get better at plotting with matplotlib
+3.Look into the pandas library
+4.
+5.
+
+A second python file becuase I saved the other one in a weird place.
